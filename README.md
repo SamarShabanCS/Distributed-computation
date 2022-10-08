@@ -9,4 +9,5 @@ Install mpi4py; mpi4py is a Python module that allows you to interact with your 
 - - To run: mpirun -n 11 python sample1.py
 -  
 Tools:
-Pythons, MPI
+- Python 
+- MPI
