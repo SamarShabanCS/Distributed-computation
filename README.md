@@ -6,3 +6,7 @@ Install mpi4py; mpi4py is a Python module that allows you to interact with your 
 - MPI.COMM_WORLD to get information about all the processors available to run your script, gives access to the number of processes (ranks/processors) available to distribute work across, and information about each processor. 
 - Size gives the total number of ranks, or processors, allocated to run our script. 
 - rank gives the identifier of the processor currently executing the code.
+- - To run: mpirun -n 11 python sample1.py
+-  
+Tools:
+Pythons, MPI
